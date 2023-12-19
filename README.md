@@ -12,7 +12,6 @@ Notus Svelte is Free and Open Source. It features multiple HTML and Svelte eleme
 
 It is based on [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation?ref=ns-github-readme) by Creative Tim, and it is build with both presentation pages, and pages for an admin dashboard.
 
-Speed up your web development with a beautiful product made by <a href="https://creative-tim.com/" target="_blank">Creative Tim </a>.
 If you like bright and fresh colors, you will love this Free Tailwind CSS Template! It features a huge number of components that can help you create amazing websites.
 
 ### Get Started
@@ -92,32 +91,6 @@ We also feature the following 18 dynamic components:
 * [Useful Links](#useful-links)
 * [Resources](#resources)
 
-## Versions
-
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/angular.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-angular?ref=ns-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/js.png?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-js?ref=ns-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/nextjs.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-nextjs?ref=ns-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-react?ref=ns-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/svelte.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-svelte?ref=ns-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/vue.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/vue-notus?ref=ns-github-readme)
-
-
-| Angular | JavaScript / HTML | NextJS | React | Svelte | VueJS |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| [![Notus Angular](https://github.com/creativetimofficial/public-assets/blob/master/notus-angular/notus-angular.jpg?raw=true)](https://www.creative-tim.com/product/notus-angular?ref=ns-github-readme)  | [![Notus JS](https://github.com/creativetimofficial/public-assets/blob/master/notus-js/notus-js.jpg?raw=true)](https://www.creative-tim.com/product/notus-js?ref=ns-github-readme)  | [![Notus NextJS](https://github.com/creativetimofficial/public-assets/blob/master/notus-nextjs/notus-nextjs.jpg?raw=true)](https://www.creative-tim.com/product/notus-nextjs?ref=ns-github-readme)  | [![Notus React](https://github.com/creativetimofficial/public-assets/blob/master/notus-react/notus-react.jpg?raw=true)](https://www.creative-tim.com/product/notus-react?ref=ns-github-readme)  | [![Notus Svelte](https://github.com/creativetimofficial/public-assets/blob/master/notus-svelte/notus-svelte.jpg?raw=true)](https://www.creative-tim.com/product/notus-svelte?ref=ns-github-readme)  | [![Vue Notus](https://github.com/creativetimofficial/public-assets/blob/master/vue-notus/vue-notus.jpg?raw=true)](https://www.creative-tim.com/product/vue-notus?ref=ns-github-readme)
-
-## Documentation
-The documentation for the Notus Svelte is hosted at our <a href="https://www.creative-tim.com/learning-lab/tailwind/svelte/overview/notus?ref=ns-readme" target="_blank">website</a>.
-
-## Quick start
-
-- <a href="https://www.creative-tim.com/product/notus-svelte?ref=ns-github-readme" target="_blank">Download from Creative Tim</a>.
-- <a href="https://github.com/creativetimofficial/notus-svelte" target="_blank">Check it on Github</a>.
-
-## Files and Folder
-
-This is the project structure that you will get upon the download:
-```
-notus-svelte
-.
-
-```
-
 ## Browser Support
 
 At present, we officially aim to support the last two versions of the following browsers:
@@ -133,43 +106,3 @@ We use GitHub Issues as the official bug tracker for the Notus Svelte. Here are 
 1. Make sure that you are using the latest version of the Notus Svelte. Check the CHANGELOG from your dashboard on our <a href="https://www.creative-tim.com/?ref=ns-readme" target="_blank">website</a>.
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
-
-## Licensing
-
-- Copyright 2021 <a href="https://www.creative-tim.com/?ref=ns-readme" target="_blank">Creative Tim</a>
-
-- Licensed under <a href="https://github.com/creativetimofficial/notus-svelte/blob/main/LICENSE.md" target="_blank">MIT</a>
-
-## Useful Links
-
-- <a href="https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w" target="_blank">Tutorials</a>
-- <a href="https://www.creative-tim.com/affiliates/new?ref=ns-readme" target="_blank">Affiliate Program</a> (earn money)
-- <a href="http://blog.creative-tim.com/?ref=ns-readme" target="_blank">Blog Creative Tim</a>
-- <a href="https://www.creative-tim.com/templates/free?ref=ns-readme" target="_blank">Free Products</a> from Creative Tim
-- <a href="https://www.creative-tim.com/templates/premium?ref=ns-readme" target="_blank">Premium Products</a> from Creative Tim
-- <a href="https://www.creative-tim.com/templates/react?ref=ns-readme" target="_blank">React Products</a> from Creative Tim
-- <a href="https://www.creative-tim.com/templates/angular?ref=ns-readme" target="_blank">Angular Products</a> from Creative Tim
-- <a href="https://www.creative-tim.com/templates/vuejs?ref=ns-readme" target="_blank">VueJS Products</a> from Creative Tim
-- <a href="https://www.creative-tim.com/templates?ref=ns-readme" target="_blank">More products</a> from Creative Tim
-- Check our Bundles <a href="https://www.creative-tim.com/bundles?ref=ns-readme" target="_blank">here</a>
-- Check our awesome builder <a href="https://www.creative-tim.com/builder/argon?ref=ns-readme" target="_blank">here</a>
-- Check Tailwind Starter Kit, the project behind this product <a href="https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation?ref=ns-readme" target="_blank">here</a>
-
-### Social Media
-
-Twitter: <a href="https://twitter.com/CreativeTim" target="_blank">https://twitter.com/CreativeTim</a>
-
-Facebook: <a href="https://www.facebook.com/CreativeTim" target="_blank">https://www.facebook.com/CreativeTim</a>
-
-Dribbble: <a href="https://dribbble.com/creativetim" target="_blank">https://dribbble.com/creativetim</a>
-
-Instagram: <a href="https://www.instagram.com/creativetimofficial/" target="_blank">https://www.instagram.com/creativetimofficial/</a>
-
-
-## Resources
-- Demo: <a href="https://demos.creative-tim.com/notus-svelte/?ref=ns-readme" target="_blank">https://demos.creative-tim.com/notus-svelte/?ref=ns-readme</a>
-- Download Page: <a href="https://www.creative-tim.com/product/notus-svelte?ref=ns-github-readme" target="_blank">https://www.creative-tim.com/product/notus-svelte</a>
-- Documentation: <a href="https://www.creative-tim.com/learning-lab/tailwind/svelte/overview/notus?ref=ns-readme" target="_blank">https://www.creative-tim.com/learning-lab/tailwind/svelte/overview/notus?ref=ns-readme</a>
-- License Agreement: <a href="https://www.creative-tim.com/license?ref=ns-readme" target="_blank">https://www.creative-tim.com/license?ref=ns-readme</a>
-- Support: <a href="https://www.creative-tim.com/contact-us?ref=ns-readme" target="_blank">https://www.creative-tim.com/contact-us?ref=ns-readme</a>
-- Issues: <a href="https://github.com/creativetimofficial/notus-svelte/issues" target="_blank">Github Issues Page</a>
